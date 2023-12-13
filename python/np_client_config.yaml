@@ -1,0 +1,5 @@
+packageName: "np_client"
+projectName: "Network Perspective API Client"
+additionalProperties:  
+  appDescription: "This is a Network Perspective API client generated with openapi-generator."
+  packageDescription: "This is a Network Perspective API client generated with openapi-generator."
