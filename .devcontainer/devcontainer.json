@@ -24,7 +24,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bash /workspaces/NetworkPerspective.Samples/.devcontainer/postCreateCommand.sh"	
+	"postCreateCommand": "bash ./.devcontainer/postCreateCommand.sh"	
 
 	// Configure tool-specific properties.
 	// "customizations": {},
